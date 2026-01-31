@@ -65,7 +65,7 @@ Over the past 20 months, Spotify captured 2,727 of my streaming records with ric
 - **Period 4 spike (19%)**: Corresponds with August graduation and move (listening nearly ceased)
 - **Insight**: Life disruption resets discovery patterns; skip rate reflects genuine musical alignment
 
-![Skip Rate Improvement - The Journey of Change](images/skip_rate_trend.png)
+<img src="images/skip_rate.PNG" width="500" alt="Skip Rate Improvement - The Journey of Change">
 
 ### **Artist Loyalty Paradox**
 - **Only 5 artists** remained in top 10 between 2024 and 2025
@@ -74,18 +74,14 @@ Over the past 20 months, Spotify captured 2,727 of my streaming records with ric
 - **Quality over quantity**: Shift from passive exploration to active, repeated engagement
 - **Insight**: Mirrors a maturing listener profile
 
-![2024 vs 2025 Artist Comparison - A Year in Review](images/artist_comparison.png)
-
 ### **Temporal Listening Patterns**
 - **Morning dominates**: 1,317 songs (6-11 AM) vs 620 afternoon, 88 evening
 - **Routine-driven peaks**: Jan-Mar 2025 (college breaks) = 184-406 songs/month
 - **Sustained consistency**: Apr-Jul 2025 (morning routine only) = 311-347 songs/month
 - **Dramatic collapse**: August 2025 (post-graduation) = only 3 songs
 - **Insight**: Listening tied to structured routines and life stability, not leisure
-
-![Listening Time Distribution - A Year in Review](images/listening_time_distribution.png)
-
----
+  
+<img src="images/temporal_changes.PNG" width="500" alt="Listening Time Distribution">
 
 ## 5. Recommendations
 
