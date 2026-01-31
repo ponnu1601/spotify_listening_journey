@@ -2,9 +2,10 @@
 
 ## 1. Background & Overview
 
-Over the past 20 months, Spotify captured 2,727 of my streaming records with rich metadata—from timestamps and skip behavior to song duration and artist information. As a data analyst, I saw an opportunity to move beyond simple statistics and tell a narrative about how my musical taste has evolved. Rather than asking "what did I listen to?", I asked "when, how, and why did my preferences change?"
+Over the past 20 months, Spotify captured 2,727 of my streaming records with rich metadata—from timestamps and skip behavior to song duration and artist information. As a data analyst, I saw an opportunity to move beyond simple statistics and tell a narrative about how my musical taste has evolved. I began with exploratory data analysis in Python (Pandas, JSON processing) to clean and prepare the data, then built a comprehensive Power BI dashboard to visualize the story. Rather than asking "what did I listen to?", I asked "when, how, and why did my preferences change?"
 
-**The goal**: Build a comprehensive Power BI dashboard that transforms raw listening history into visual storytelling, revealing patterns about artist loyalty, skip behavior evolution, and the subtle shifts between 2024 and 2025. This project demonstrates core data analyst skills—data cleaning, exploratory analysis, DAX calculations, and visualization design—all while exploring a personal dataset that's inherently interesting.
+
+**The goal**: Transform raw listening history into visual storytelling through both technical analysis and interactive dashboards, revealing patterns about artist loyalty, skip behavior evolution, and the subtle shifts between 2024 and 2025. This project demonstrates core data analyst skills—data cleaning, exploratory analysis, DAX calculations, and visualization design—all while exploring a personal dataset that's inherently interesting.
 
 ---
 
