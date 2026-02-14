@@ -118,7 +118,7 @@ jupyter notebook Spotify_analysis.ipynb
 ### Part 2: Power BI Dashboard
 
 **View the Dashboard:**
-- 📹 [Watch Interactive Demo Video](https://drive.google.com/file/d/1dGQsEUa4y6WraE5n2c2CLhZTDG-FLVE8/view?usp=sharing)
+- 📹 [Watch Interactive Demo Video](https://drive.google.com/file/d/1SPAWjuce8QIzZ8uyShqGGJMD-oyw3NhA/view?usp=sharing)
 - 📸 View detailed screenshots of all 4 pages below
 
 ---
